@@ -262,6 +262,12 @@ console.log( y );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/math-strided/special/atan-by`][@stdlib/math/strided/special/atan-by]</span><span class="delimiter">: </span><span class="description">compute the arctangent of each element retrieved from an input strided array via a callback function.</span>
+
 </section>
 
 <!-- /.related -->
@@ -292,7 +298,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
@@ -343,6 +349,12 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [mdn-typed-array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
 
 [@stdlib/math/base/special/atanh]: https://github.com/stdlib-js/math-base-special-atanh
+
+<!-- <related-links> -->
+
+[@stdlib/math/strided/special/atan-by]: https://github.com/stdlib-js/math-strided-special-atan-by
+
+<!-- </related-links> -->
 
 </section>
 
